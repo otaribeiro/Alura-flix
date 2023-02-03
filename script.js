@@ -18,6 +18,9 @@ nomeFilmes[3] = "O hobbit: Uma jornada inesperada";
 listaFilmes[4] = "https://img.elo7.com.br/product/zoom/2692268/big-poster-o-hobbit-a-desolacao-de-smaug-lo07-tam-90x60-cm-o-hobbit.jpg";
 nomeFilmes[4]= "O hobbit: A desolação de Smaug"
 
+listaFilmes[5] = "https://img.elo7.com.br/product/zoom/269238C/poster-o-hobbit-3-a-batalha-dos-cinco-exercitos-lo07-90x60-geek.jpg";
+nomeFilmes[5] = "O hobbit: A batalha dos cinco exércitos"
+
 for (var i = 0; i < listaFilmes.length; i++) {
     container.innerHTML =
       container.innerHTML +
